@@ -32,4 +32,4 @@ Coming soon!
 
 ## How to download & install
 
-You can download wheel files from the repository directly. There's a [release page](https://github.com/sohnryang/tensorflow-wheels/releases) that makes you find appropriate version for you.
+You can download wheel files from the repository directly. There's a [release page](https://github.com/sohnryang/tensorflow-wheels/releases) that makes you easily find appropriate TensorFlow version for you.
