@@ -20,7 +20,7 @@ CPU features for optimization: SSE4.1, SSE4.1, AVX, AVX2, FMA
 
 | Version | Build command |
 | ------- | ------------- |
-| v1.4.1  | bazel build --config=opt --config=mkl --copt=-mavx --copt=-mavx2 --copt=-msse4.1 --copt=-msse4.2 --copt=-mfma //tensorflow/tools/pip_package:build_pip_package |
+| v1.4.1  | `bazel build --config=opt --config=mkl --copt=-mavx --copt=-mavx2 --copt=-msse4.1 --copt=-msse4.2 --copt=-mfma //tensorflow/tools/pip_package:build_pip_package` |
 
 ## macOS wheels
 
